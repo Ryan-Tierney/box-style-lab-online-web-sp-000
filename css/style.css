@@ -8,7 +8,7 @@ body, html {
 }
 
 body {
-  background-image: url("images/white-wood.jpg");
+  background: url("../images/white-wood.jpg") no-repeat fixed;
   background-color: #cccccc;
   font-family: Apple Chancery, cursive;
 }
