@@ -10,6 +10,7 @@ body, html {
 body {
   background-image: url("images/white-wood.jpg");
   background-color: #cccccc;
+  font-family: Apple Chancery, cursive;
 }
 
 .container, h1 {
