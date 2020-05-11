@@ -24,6 +24,7 @@ body {
 
 h4.amiable{
   background: linear-gradient(to right, #22aa44, #44cc66);
+  font-family: cursive;
 }
 
 h4.indifferent {
