@@ -22,6 +22,9 @@ body {
 }
 
 
+h4.amiable{
+  background: linear-gradient(to right, #22aa44, #44cc66);
+}
 
 h4 {
   width: fit-content;
